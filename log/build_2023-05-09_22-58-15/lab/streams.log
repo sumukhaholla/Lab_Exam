@@ -1,0 +1,26 @@
+[1.675s] Invoking command in '/home/sumukha/lab/src/lab': PYTHONPATH=/home/sumukha/lab/build/lab/prefix_override:/home/sumukha/lab/install/lab/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab build --build-base /home/sumukha/lab/build/lab/build install --record /home/sumukha/lab/build/lab/install.log --install-scripts $base/lib/lab --single-version-externally-managed
+[2.201s] running egg_info
+[2.204s] writing ../../build/lab/lab.egg-info/PKG-INFO
+[2.206s] writing dependency_links to ../../build/lab/lab.egg-info/dependency_links.txt
+[2.208s] writing entry points to ../../build/lab/lab.egg-info/entry_points.txt
+[2.208s] writing requirements to ../../build/lab/lab.egg-info/requires.txt
+[2.208s] writing top-level names to ../../build/lab/lab.egg-info/top_level.txt
+[2.285s] reading manifest file '../../build/lab/lab.egg-info/SOURCES.txt'
+[2.288s] writing manifest file '../../build/lab/lab.egg-info/SOURCES.txt'
+[2.290s] running build
+[2.290s] running build_py
+[2.291s] copying lab/line_follow.py -> /home/sumukha/lab/build/lab/build/lib/lab
+[2.292s] running install
+[2.299s] running install_lib
+[2.304s] copying /home/sumukha/lab/build/lab/build/lib/lab/line_follow.py -> /home/sumukha/lab/install/lab/lib/python3.8/site-packages/lab
+[2.304s] byte-compiling /home/sumukha/lab/install/lab/lib/python3.8/site-packages/lab/line_follow.py to line_follow.cpython-38.pyc
+[2.311s] running install_data
+[2.314s] running install_egg_info
+[2.318s] removing '/home/sumukha/lab/install/lab/lib/python3.8/site-packages/lab-0.0.0-py3.8.egg-info' (and everything under it)
+[2.319s] Copying ../../build/lab/lab.egg-info to /home/sumukha/lab/install/lab/lib/python3.8/site-packages/lab-0.0.0-py3.8.egg-info
+[2.321s] running install_scripts
+[2.374s] Installing capture script to /home/sumukha/lab/install/lab/lib/lab
+[2.375s] Installing extract_road script to /home/sumukha/lab/install/lab/lib/lab
+[2.376s] Installing line_follow script to /home/sumukha/lab/install/lab/lib/lab
+[2.378s] writing list of installed files to '/home/sumukha/lab/build/lab/install.log'
+[2.522s] Invoked command in '/home/sumukha/lab/src/lab' returned '0': PYTHONPATH=/home/sumukha/lab/build/lab/prefix_override:/home/sumukha/lab/install/lab/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/lab build --build-base /home/sumukha/lab/build/lab/build install --record /home/sumukha/lab/build/lab/install.log --install-scripts $base/lib/lab --single-version-externally-managed

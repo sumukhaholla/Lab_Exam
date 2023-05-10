@@ -1,0 +1,3 @@
+[console_scripts]
+capture = lab.camre_capture:main
+

@@ -1,0 +1,53 @@
+[1.279s] Invoking command in '/home/sumukha/lab/src/ball_tracker': PYTHONPATH=/home/sumukha/lab/build/ball_tracker/prefix_override:/home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ball_tracker build --build-base /home/sumukha/lab/build/ball_tracker/build install --record /home/sumukha/lab/build/ball_tracker/install.log --install-scripts $base/lib/ball_tracker --single-version-externally-managed
+[1.579s] running egg_info
+[1.579s] creating ../../build/ball_tracker/ball_tracker.egg-info
+[1.580s] writing ../../build/ball_tracker/ball_tracker.egg-info/PKG-INFO
+[1.580s] writing dependency_links to ../../build/ball_tracker/ball_tracker.egg-info/dependency_links.txt
+[1.581s] writing entry points to ../../build/ball_tracker/ball_tracker.egg-info/entry_points.txt
+[1.581s] writing requirements to ../../build/ball_tracker/ball_tracker.egg-info/requires.txt
+[1.581s] writing top-level names to ../../build/ball_tracker/ball_tracker.egg-info/top_level.txt
+[1.582s] writing manifest file '../../build/ball_tracker/ball_tracker.egg-info/SOURCES.txt'
+[1.626s] reading manifest file '../../build/ball_tracker/ball_tracker.egg-info/SOURCES.txt'
+[1.628s] writing manifest file '../../build/ball_tracker/ball_tracker.egg-info/SOURCES.txt'
+[1.628s] running build
+[1.628s] running build_py
+[1.628s] creating /home/sumukha/lab/build/ball_tracker/build
+[1.628s] creating /home/sumukha/lab/build/ball_tracker/build/lib
+[1.628s] creating /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.628s] copying ball_tracker/__init__.py -> /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.629s] copying ball_tracker/detect_ball.py -> /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.629s] copying ball_tracker/follow_ball.py -> /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.629s] copying ball_tracker/detect_ball_3d.py -> /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.629s] copying ball_tracker/process_image.py -> /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker
+[1.629s] running install
+[1.630s] running install_lib
+[1.632s] creating /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.632s] copying /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker/__init__.py -> /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.632s] copying /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker/detect_ball.py -> /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.632s] copying /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker/follow_ball.py -> /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.632s] copying /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker/detect_ball_3d.py -> /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.632s] copying /home/sumukha/lab/build/ball_tracker/build/lib/ball_tracker/process_image.py -> /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker
+[1.633s] byte-compiling /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker/__init__.py to __init__.cpython-38.pyc
+[1.634s] byte-compiling /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker/detect_ball.py to detect_ball.cpython-38.pyc
+[1.635s] byte-compiling /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker/follow_ball.py to follow_ball.cpython-38.pyc
+[1.636s] byte-compiling /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker/detect_ball_3d.py to detect_ball_3d.cpython-38.pyc
+[1.636s] byte-compiling /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker/process_image.py to process_image.cpython-38.pyc
+[1.638s] running install_data
+[1.639s] creating /home/sumukha/lab/install/ball_tracker/share/ament_index
+[1.639s] creating /home/sumukha/lab/install/ball_tracker/share/ament_index/resource_index
+[1.639s] creating /home/sumukha/lab/install/ball_tracker/share/ament_index/resource_index/packages
+[1.639s] copying resource/ball_tracker -> /home/sumukha/lab/install/ball_tracker/share/ament_index/resource_index/packages
+[1.639s] copying package.xml -> /home/sumukha/lab/install/ball_tracker/share/ball_tracker
+[1.639s] creating /home/sumukha/lab/install/ball_tracker/share/ball_tracker/launch
+[1.639s] copying launch/ball_tracker.launch.py -> /home/sumukha/lab/install/ball_tracker/share/ball_tracker/launch
+[1.640s] copying launch/example_launch_include.launch.py -> /home/sumukha/lab/install/ball_tracker/share/ball_tracker/launch
+[1.640s] creating /home/sumukha/lab/install/ball_tracker/share/ball_tracker/config
+[1.640s] copying config/ball_tracker_params_example.yaml -> /home/sumukha/lab/install/ball_tracker/share/ball_tracker/config
+[1.640s] running install_egg_info
+[1.641s] Copying ../../build/ball_tracker/ball_tracker.egg-info to /home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages/ball_tracker-0.0.0-py3.8.egg-info
+[1.642s] running install_scripts
+[1.665s] Installing detect_ball script to /home/sumukha/lab/install/ball_tracker/lib/ball_tracker
+[1.665s] Installing detect_ball_3d script to /home/sumukha/lab/install/ball_tracker/lib/ball_tracker
+[1.665s] Installing follow_ball script to /home/sumukha/lab/install/ball_tracker/lib/ball_tracker
+[1.666s] writing list of installed files to '/home/sumukha/lab/build/ball_tracker/install.log'
+[1.727s] Invoked command in '/home/sumukha/lab/src/ball_tracker' returned '0': PYTHONPATH=/home/sumukha/lab/build/ball_tracker/prefix_override:/home/sumukha/lab/install/ball_tracker/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ball_tracker build --build-base /home/sumukha/lab/build/ball_tracker/build install --record /home/sumukha/lab/build/ball_tracker/install.log --install-scripts $base/lib/ball_tracker --single-version-externally-managed

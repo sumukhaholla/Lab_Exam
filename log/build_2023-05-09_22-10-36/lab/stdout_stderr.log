@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/lab/my_bot.egg-info
+writing ../../build/lab/my_bot.egg-info/PKG-INFO
+writing dependency_links to ../../build/lab/my_bot.egg-info/dependency_links.txt
+writing entry points to ../../build/lab/my_bot.egg-info/entry_points.txt
+writing requirements to ../../build/lab/my_bot.egg-info/requires.txt
+writing top-level names to ../../build/lab/my_bot.egg-info/top_level.txt
+writing manifest file '../../build/lab/my_bot.egg-info/SOURCES.txt'
+error: package directory 'my_bot' does not exist

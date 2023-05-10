@@ -1,0 +1,5 @@
+[console_scripts]
+capture = lab.camre_capture:main
+extract_road = lab.extract_road:main
+line_follow = lab.line_follow:main
+
